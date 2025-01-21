@@ -1,12 +1,8 @@
-### WELCOME TO ASSIGNMENT-001
+### WELCOME TO ASSIGNMENT-01
 
 # <img width=20 src="https://img.icons8.com/?size=96&id=60238&format=png"/> BANGLADESH 2.0
 
-## **📅 Deadline For 60 marks**: 11th January , 2025 ( 11:59 pm ⏱️)
-
-## **📅 Deadline For 50 marks**: 12th January , 2025 ( 11:59 pm ⏱️)
-
-**📅 Deadline For 30 marks**: Any time after 12th January.
+## **📅 Deadline For 60 marks**: 23th January , 2025 ( 3:00 pm ⏱️)
 
 ## Requirements (50)
 
@@ -22,7 +18,7 @@
 
 ---
 
-### 2. The Vision of Future
+### 2. The Vision of the Future
 
 - A section that presents three cards in a row with the following features:
   - **Distinct Backgrounds**: Each card has a unique background style.
@@ -65,7 +61,7 @@
 - A clean and functional design for newsletter subscriptions:
   - **Background Color**: Sets it apart visually.
   - **Center-Aligned Title and Subtitle**: Encourages users to subscribe.
-  - **Form**: Includes an input field and a button styled as per the design.
+  - **Form**: Includes an input field and a button styled per the design.
 
  <img src="./UI/newsletter.png"/>
 
@@ -74,8 +70,8 @@
 ### 6. Hover Effects on Page
 
 - Interactive hover effects across the site:
-  - On Card have a default background.
-  - Donate section cards change background on hover.
+  - On Card has a default background.
+  - Donate section cards change the background on hover.
   - Buttons feature hover animations to enhance interactivity.
 
 ---
@@ -83,7 +79,7 @@
 ### 7. Quote Section
 
 - A dedicated section to display an inspirational quote with:
-  - **Icon Background**: Styled as per the design for visual appeal.
+  - **Icon Background**: Styled according to the design for visual appeal.
 
  <img src="./UI/quotes.png"/>
 
@@ -92,7 +88,7 @@
 ## 5 Commit and No Lorem Ipsum
 
 - A minimum of five commits were made to ensure incremental progress.
-- No placeholder text (e.g., Lorem Ipsum) . All content must have to be meaningful and relevant.
+- No placeholder text (e.g., Lorem Ipsum). All content must be meaningful and relevant.
 
 ---
 
@@ -105,7 +101,7 @@
 
 # What to Submit
 
-- Your Github Repository . ex.("https://github.com/ProgrammingHero1/B11A1--assignment-1")
-- Your Live Link. ex.(https://github.com/ProgrammingHero1/B11A1--assignment-1)
+- Your Github Repository. ex.("https://github.com/Abacus-Soft-BD-Limited/B2--assignment-1")
+- Your Live Link. ex.(https://github.com/Abacus-Soft-BD-Limited/B2--assignment-1)
 
 ---
